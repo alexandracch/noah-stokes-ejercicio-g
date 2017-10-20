@@ -1,5 +1,5 @@
 # ***Noah Stokes***
-### ***Desarrollo de ejercio G de Noah Stokes***
+### ***Desarrollo de ejercicio G de Noah Stokes***
 
 ---
 
